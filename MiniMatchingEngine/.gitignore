@@ -1,0 +1,12 @@
+# Ignore build files
+build/
+*.o
+*.out
+*.exe
+*.log
+
+# Ignore system/mac files
+.DS_Store
+
+# Ignore VS Code settings (optional)
+.vscode/
