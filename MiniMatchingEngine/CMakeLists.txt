@@ -7,4 +7,5 @@ include_directories(src)
 add_executable(matching_engine
     src/main.cpp
     src/OrderBook.cpp
+    src/OrderSimulator.cpp
 )
